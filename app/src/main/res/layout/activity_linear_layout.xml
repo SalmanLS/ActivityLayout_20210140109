@@ -87,6 +87,7 @@
 
         <ImageButton
             android:id="@+id/ibtn1"
+            android:contentDescription="null"
             android:layout_width="wrap_content"
             android:layout_height="50dp"
             android:backgroundTint="@color/green"
@@ -102,6 +103,7 @@
             android:text="Please select your hero"
             />
         <ImageButton
+            android:contentDescription="null"
             android:id="@+id/ibtn2"
             android:layout_width="wrap_content"
             android:layout_height="50dp"
